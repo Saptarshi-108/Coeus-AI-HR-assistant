@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-python-dotenv
-pdfplumber
-langchain
-faiss-cpu
-google-generativeai==0.8.5
-pymongo
