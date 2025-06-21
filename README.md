@@ -1,6 +1,6 @@
 # AI-HR Assistant
 
-**AI-HR Assistant** is an intelligent, AI-powered assistant designed to revolutionize Human Resources management by automating and streamlining the most tedious, repetitive, and mentally draining HR operations. It aims to minimize human intervention while ensuring speed, accuracy, and fairness in people-related processes — and perhaps, in the long run, render the traditional HR role obsolete.
+**AI-HR Assistant** is an intelligent, AI-powered assistant designed to revolutionize Human Resources management by automating and streamlining the most tedious, repetitive, and mentally draining HR operations. It aims to minimize human intervention while ensuring speed, accuracy, and fairness in people-related processes.
 
 ---
 
