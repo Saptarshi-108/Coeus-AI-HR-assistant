@@ -1,0 +1,29 @@
+# Core API
+fastapi
+uvicorn[standard]
+
+# File handling and parsing
+python-multipart
+PyMuPDF  # For PDF text extraction
+pandas
+
+# MongoDB
+pymongo
+dnspython
+
+# Environment Variables
+python-dotenv
+
+# Google Gemini (Generative AI)
+google-generativeai
+
+# (Optional) Google Calendar Scheduler
+google-api-python-client
+google-auth
+google-auth-oauthlib
+
+# CORS for frontend communication
+fastapi[all]  # Includes CORS and other extras
+
+# Async support and utilities (optional but helpful)
+httpx
