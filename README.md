@@ -20,22 +20,10 @@ Whether it's handling recruitment, onboarding, employee feedback, document gener
 - **Smart Interview Scheduling**  
   Handles multi-party calendar conflicts, availability detection, and automated reminders.
 
-- **AI-Driven Candidate Communication**  
-  Drafts custom emails and messages for rejections, interviews, follow-ups, and offers.
-
 - **Policy Query Bot**  
   Answers questions on company policies, benefits, leaves, and more through natural language.
 
-- **AI-Powered HR Chat Companion**  
-  For day-to-day operations like document drafts, announcements, reminders, and more.
-
----
-
-## ⚠️ Status
-
-**NOT COMPLETED — UNDER CONSTRUCTION**
-
-This repository is currently in active development. Several modules are being prototyped, and the project is expected to evolve rapidly. Expect missing features, stubs, and incomplete integrations.
+  
 
 ---
 
